@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Miquel Barba
+## Hi there 👋, I'm Miquel Barba
 
 LinkedIn: https://linkedin.com/in/miquelbarba/<br/>
 Github: https://github.com/miquelbarba
@@ -11,13 +11,13 @@ I care about software, I try to make software that is helpful for end users and 
 engineering practices such as test-driven development, continuous integration, code reviews, linters, SOLID & DRY
 principles.
 
-## RELEVANT SKILLS
+### RELEVANT SKILLS
 
 Ruby & Ruby on Rails | Javascript & React & Cypress | Go & Gin & Gorm | React Native | Java & J2EE | Elixir |
 Python | Amazon Web Services | Docker | MySQL | PostgreSQL | Redis | ElasticSearch | Git | Continuous integration
 | Continuous deployment | Agile methodologies | Startups & entrepreneurship | People management
 
-## EDUCATION
+### EDUCATION
 
 **Facultat d’Informàtica de Barcelona / Universitat Politècnica de Catalunya
 Barcelona**
