@@ -13,14 +13,25 @@ principles.
 
 ### RELEVANT SKILLS
 
-Ruby & Ruby on Rails | Javascript & React & Cypress | Go & Gin & Gorm | React Native | Java & J2EE | Elixir |
-Python | Amazon Web Services | Docker | MySQL | PostgreSQL | Redis | ElasticSearch | Git | Continuous integration
-| Continuous deployment | Agile methodologies | Startups & entrepreneurship | People management
+* Ruby & Ruby on Rails 
+* Javascript & React & Cypress 
+* Go & Gin & Gorm
+* React Native
+* Java & J2EE
+* Python
+* Amazon Web Services
+* Docker
+* MySQL
+* PostgreSQL
+* Redis
+* ElasticSearch
+* Continuous integration & Continuous deployment
+* Agile methodologies
 
 ### EDUCATION
 
 **Facultat d’Informàtica de Barcelona / Universitat Politècnica de Catalunya
-Barcelona**
+Barcelona**<br/>
 _Engineer, Computer Science, 1999_
 
 
